@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-/*Changed .header div to .header nav*/ 
+/*Changed .header div to .header nav for all elements*/ 
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
