@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-/*Changed .header div to .header nav for all elements*/ 
+/*Changed .header div to .header nav*/ 
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,9 +33,13 @@ body {
     font-size: 20px;
 }
 
+/*Changed .header div to .header nav*/ 
+
 .header nav ul {
     list-style-type: none;
 }
+
+/*Changed .header div to .header nav*/ 
 
 .header nav ul li {
     display: inline-block;
