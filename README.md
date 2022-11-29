@@ -17,9 +17,10 @@ If you open the developer console (right click on the page) the structure of the
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
-![alt text](./Develop/assets/images/Screenshot 2022-11-28 233056.jpg)
-![alt text](./Develop/assets/images/Screenshot 2022-11-28 233206.jpg)
+
+![alt text](./Develop/assets/images/Screenshot%202022-11-28%20233056.jpg)
+
+![alt text](./Develop/assets/images/Screenshot%202022-11-28%20233206.jpg/)
 
 ## License
 
